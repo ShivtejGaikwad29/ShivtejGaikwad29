@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivtejgaikwad29&label=Profile%20views&color=0e75b6&style=flat" alt="shivtejgaikwad29" /> </p>
 
-- 🔭 I’m currently working on **SQL AND PL/SQL**
+- 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently learning **SQl COURSES**
+- 🌱 I’m currently learning **Machine Learning COURSES**
 
 - 📫 How to reach me **shivtej2904@gmail.com**
 
