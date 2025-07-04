@@ -45,9 +45,6 @@ Here are a few highlights:
 - 🛒 **Ekrushna E Super Bazar**  
   *Dynamic eCommerce platform for grocery and stationery items with image-based product management.*
 
-- 📷 **Attendance Sheet to Digital App (Prototype)**  
-  *Automating attendance tracking by analyzing photographed sheets using OCR.*
-
 ---
 
 ### 📊 GitHub Stats
